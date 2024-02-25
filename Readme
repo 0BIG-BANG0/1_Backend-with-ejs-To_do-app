@@ -1,0 +1,27 @@
+# To-Do App
+
+This is a simple to-do web application built using Express.js, EJS templates, and MongoDB.
+
+## Project Structure
+
+The project structure is organized as follows:
+
+- `index.js`: This is the main entry point of the application where Express server is initialized.
+- `src/routes/todo.route.js`: This file contains the routes for the to-do functionalities.
+- `public/`: This directory contains static assets like CSS, JavaScript, and images.
+- `views/`: This directory contains EJS templates for rendering dynamic content.
+
+## Dependencies
+
+- **Express.js**: Used as the web application framework to handle HTTP requests.
+- **EJS (Embedded JavaScript)**: Templating engine for rendering dynamic content.
+- **Express Layout**: Layout engine for Express.js to manage boilerplate code.
+- **Mongoose**: MongoDB object modeling tool for Node.js.
+- **Nodemon**: Utility that automatically restarts the server when changes are made to the code during development.
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-repository.git

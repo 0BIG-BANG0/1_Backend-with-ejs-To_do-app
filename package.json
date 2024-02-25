@@ -1,0 +1,23 @@
+{
+  "name": "1_backend-with-ejs-to_do-app",
+  "version": "1.0.0",
+  "description": "To_Do_App",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "to_do",
+    "tasks"
+  ],
+  "author": "Abdus Samad",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-layout": "^0.1.0",
+    "mongoose": "^8.2.0",
+    "nodemon": "^3.1.0"
+  }
+}
